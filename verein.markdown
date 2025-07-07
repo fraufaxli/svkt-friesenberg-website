@@ -20,8 +20,8 @@ Das Ziel unseres Vereins ist es, wöchentlich zusammenzukommen und sich in jedem
 Ausserdem wollen wir unsere Angebote den heutigen Bedürfnissen anpassen und die sportlichen Trends im Rahmen unserer personellen und finanziellen Möglichkeiten umsetzen.
 
 
-[Vereinsleitung](/51_vereinsleitung)
-[Statuten](/assets/images/2025_Statutenänderung_Unterschrift-in-den-Originalstatuten.pdf)
-[Organigramm](/assets/images/2025_OrganigrammSUS.pdf)
-[Leitbild](/52_leitbild)
-[Sport Union Schweiz (Verband)](/53_sus)
+[Vereinsleitung]({{ '/51_vereinsleitung' | relative_url }})
+[Statuten]({{ '/assets/images/2025_Statutenänderung_Unterschrift-in-den-Originalstatuten.pdf' | relative_url }})
+[Organigramm]({{ '/assets/images/2025_OrganigrammSUS.pdf' | relative_url }})
+[Leitbild]({{ '/52_leitbild' | relative_url }})
+[Sport Union Schweiz (Verband)]({{ '/53_sus' | relative_url }})
