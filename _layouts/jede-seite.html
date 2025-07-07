@@ -12,11 +12,11 @@
     <img src="../assets/images/11_SVKT_Frauensportverein_StTheresia_3c.jpg" alt="Logo SVKT Frauensportverein St. Theresia / Friesenberg" class="logo">
     <nav class='site-navigation'>
       <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{% link verein.markdown %}">Verein</a>
-      <a href="{% link sportangebote.markdown %}">Sportangebote</a>
-      <a href="{% link mitglieder-infos.markdown %}">Mitglieder-Infos</a>
-      <a href="{% link downloads.markdown %}">Downloads</a>
-      <a href="{% link kontakt.markdown %}">Kontakt</a>
+      <a href="{{ '/verein' | relative_url }}">Verein</a>
+      <a href="{{ '/sportangebote' | relative_url }}">Sportangebote</a>
+      <a href="{{ '/mitglieder-infos' | relative_url }}">Mitglieder-Infos</a>
+      <a href="{{ '/downloads' | relative_url }}">Downloads</a>
+      <a href="{{ '/kontakt' | relative_url }}">Kontakt</a>
     </nav>
 
 {{ content }}
