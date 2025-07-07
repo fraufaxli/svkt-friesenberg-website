@@ -35,5 +35,4 @@ Danila Eiselt
 Leiterin Finanzen
 kasse.svkt@gmail.com
 
-
-[Zurück zum Verein](/verein)
+<a href="{{ '/verein' | relative_url }}">Zurück zum Verein</a>
