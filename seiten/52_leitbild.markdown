@@ -1,7 +1,7 @@
 ---
 layout: jede-seite
 title: Leitbild
-permalink: /52_leitbild/
+permalink: /leitbild/
 ---
 
 # Leitbild
