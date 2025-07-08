@@ -6,9 +6,13 @@ permalink: /kontakt/
 
 # Kontakt
 
-## Himmel
+Allgemeine Informationen: info@svkt-friesenberg.ch
 
-* Stein
-* Sand
+ElKi Montag: info.elki@svkt-friesenberg.ch
 
-![Andi](/assets/andi.jpg)
+ 
+
+Lokalitäten:
+Turnhalle und Schwimmanlage Borrweg
+Turnhalle Bachtobel
+Theresiensaal der Kirche St. Theresia
