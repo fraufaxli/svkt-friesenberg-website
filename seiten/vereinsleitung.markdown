@@ -1,7 +1,7 @@
 ---
 layout: jede-seite
 title: Vereinsleitung
-permalink: /51_vereinsleitung/
+permalink: /vereinsleitung/
 ---
 
 # Vereinsleitung

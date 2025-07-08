@@ -1,7 +1,7 @@
 ---
 layout: jede-seite
 title: Sport Union Schweiz (Verband)
-permalink: /53_sus/
+permalink: /sus/
 ---
 
 # Sport Union Schweiz (Verband)
