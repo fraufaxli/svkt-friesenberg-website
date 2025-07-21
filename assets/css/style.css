@@ -29,10 +29,10 @@ h1 {
 }
 
 h2 {
-    font-size: 13px;
-    line-height: 20px;
+    font-size: 27px;
+    line-height: 36px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #4B4C4D;
+    color: white;
 }
 
 h3 {
@@ -43,4 +43,16 @@ h3 {
   color: white;
   background: rgb(20,100,200);
   
+}
+
+.button_blau {
+    padding: 1rem;
+    background-color: rgb(38,135,255);
+    color: white;
+}
+
+.button_orange {
+    padding: 1rem;
+    background-color: rgb(255,102,0);
+    color: white;
 }
