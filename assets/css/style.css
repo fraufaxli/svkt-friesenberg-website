@@ -13,6 +13,34 @@ h1 {
     font-weight: 300;
 }
 
+h2 {
+    font-size: 27px;
+    line-height: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h3 {
+  font-size: 14px;
+  line-height: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold
+  color: black;
+}
+
+p {
+  font-size: 14px;
+    line-height: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;  
+}
+
+p.lead {
+    font-size: 18px;
+    line-height: 22px;
+    color: white;
+}
+
 .logo {
     max-width: 300px;
 }
@@ -28,22 +56,7 @@ h1 {
   color: #e7402f;
 }
 
-h2 {
-    font-size: 27px;
-    line-height: 36px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
-}
 
-h3 {
-  padding: 6px 12px;
-  margin-right: 12px;
-  font-size: 16px;
-  font-family: Arial, Helvetica, sans-serif;
-  color: white;
-  background: rgb(20,100,200);
-  
-}
 
 .button_blau {
     padding: 1rem;
