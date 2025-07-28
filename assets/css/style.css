@@ -1,44 +1,44 @@
 html, body {
     margin: 0;
     padding: 0;
+    font-size: 20px;
 }
 
 h1 {
     background-color: #2161b0;
     padding: 2rem;
     color: white;
-    font-size: 46px;
-    line-height: 56px;
+    font-size: 3rem;
+    line-height: 1.4;
      font-family: 'Roboto', Arial, sans-serif;
     font-weight: 300;
 }
 
 h2 {
-    font-size: 27px;
-    line-height: 36px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5rem;
+    line-height: 1.4;
+    font-family: 'Roboto', Arial, sans-serif;
     color: white;
 }
 
 h2.titel_startseite {
     font-weight: normal;
-    line-height: 30px;
+    line-height: 1.4;
     color: black;
 }
 
 h3 {
-  font-size: 14px;
-  line-height: 18px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold
+  font-size: 2rem;
+  line-height: 2;
+  font-family: 'Roboto', Arial, sans-serif;
+  font-weight: bold;
   color: black;
 }
 
 p {
-  font-size: 14px;
     line-height: 18px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;  
+    font-family: 'Roboto', Arial, sans-serif;
+    color: black;
 }
 
 p.lead_startseite {
