@@ -4,74 +4,19 @@ html, body {
     font-size: 20px;
 }
 
-h1 {
-    background-color: #2161b0;
-    padding: 2rem;
-    color: white;
-    font-size: 3rem;
-    line-height: 1.4;
-     font-family: 'Roboto', Arial, sans-serif;
-    font-weight: 300;
+.menu-header {
+    padding: 0.5rem;
+    border: 1px red solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-h2 {
-    font-size: 2.5rem;
-    line-height: 1.4;
-    font-family: 'Roboto', Arial, sans-serif;
-    color: white;
-}
-
-h2.titel_startseite {
-    font-weight: normal;
-    line-height: 1.4;
-    color: black;
-}
-
-h3 {
-  font-size: 2rem;
-  line-height: 2;
-  font-family: 'Roboto', Arial, sans-serif;
-  font-weight: bold;
-  color: black;
-}
-
-p {
-    line-height: 18px;
-    font-family: 'Roboto', Arial, sans-serif;
-    color: black;
-}
-
-p.lead_startseite {
-    font-size: 18px;
-    line-height: 22px;
-    color: white;
-}
-
-.logo {
-    max-width: 300px;
-}
-
-.band-mit-hintergrundbild {
-    background-image: url("../images/fuer_startseite.jpg");
-	background-repeat: no-repeat;
-    background-size: contain;
-    height: 800px;
-}
-
-.roter-link {
-  color: #e7402f;
-}
-
-
-
-.button_blau {
+.fahne {
     padding: 1rem;
-    background-color: rgb(38,135,255);
-    color: white;
+    border: 1px green solid;
 }
 
-.button_orange {
-    padding: 1rem;
-    background-color: rgb(255,102,0);
-    color: white;
+.fahne img {
+    width: 100%;
 }
