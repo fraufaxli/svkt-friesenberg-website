@@ -13,4 +13,4 @@ Der Verband <a href="https://sportunionschweiz.ch" target="_blank" rel="noopener
 Die Sport Union Schweiz ist konfessionell offen und dokumentierte dies im Jahr 2000 mit der Namensänderung in «Sport Union Schweiz».
 
 
-<a href="{{ '/verein' | relative_url }}">Zurück zum Verein</a>
+<a href="{{ '/' | relative_url }}">Zurück zum Verein</a>

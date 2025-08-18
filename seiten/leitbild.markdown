@@ -24,4 +24,4 @@ Wir kommunizieren aktiv, transparent und zielgruppen-gerecht mit unseren Mitglie
 
 Vielmehr wollen wir mit unseren Aktivitäten und Projekten Toleranz, Solidarität und Gemeinschaftssinn leben und dies unabhängig von Nationalität, Alter, Geschlecht, sexueller Orientierung, sozialer Herkunft, religiöser und politischer Ausrichtung.
 
-<a href="{{ '/verein' | relative_url }}">Zurück zum Verein</a>
+<a href="{{ '/' | relative_url }}">Zurück zum Verein</a>

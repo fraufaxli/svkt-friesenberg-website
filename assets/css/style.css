@@ -4,6 +4,10 @@ html, body {
     font-size: 20px;
 }
 
+h1 {
+    font-size: 35px;
+}
+
 .menu-header {
     padding: 0.5rem;
     border: 1px red solid;
