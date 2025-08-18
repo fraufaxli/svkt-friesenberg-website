@@ -5,7 +5,36 @@ html, body {
 }
 
 h1 {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-weight: normal;
     font-size: 35px;
+}
+
+h2 {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-weight: normal;
+    font-size: 27px;
+}
+
+h3 {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.2;
+    margin-bottom: -0.6em;
+}
+
+h4 {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+
+p {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 18px;
 }
 
 .menu-header {
