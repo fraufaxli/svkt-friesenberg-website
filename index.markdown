@@ -7,7 +7,7 @@ layout: startseite
 
 # Beweg dich mit uns! … Sport für Frauen – in Zürich, Friesenberg
 
-<img src="{{ '/assets/images/turnhallenboden.jpg' | relative_url }}" />
+<img src="{{ '/assets/images/turnhallenboden.jpg' | relative_url }}" class="hero-image" />
 
 
 Du möchtest Sport treiben? Du bist neu in Zürich Wiedikon und auf der Suche nach einem neuen Sportverein?<br><br>
@@ -42,7 +42,7 @@ Kursfreie Zeit, während der <a href="https://www.stadt-zuerich.ch/de/bildung/vo
 
 Der SVKT Frauensportverein St.Theresia / Friesenberg ist dem Verband <a href="https://www.polysport-nws.ch/" rel="noopener" target="_blank">Polysport Nordwestschweiz</a> und somit dem Verband <a href="https://sportunionschweiz.ch/home.html" rel="noopener" target="_blank">Sport Union Schweiz</a> angegliedert.<br><br>
 
-### Start
+###  Start im 1968
 Gegründet wurde unser Verein im Jahre 1968.
 Engagierte und sportliche Frauen aus dem Frauenverein setzten ihre Idee, miteinander Sport zu treiben, um und so entstand – durch die finanzielle Unterstützung des Frauenvereins – unseren heutigen Frauensportverein.
 

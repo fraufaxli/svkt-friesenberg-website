@@ -1,40 +1,40 @@
 html, body {
     margin: 0;
     padding: 0;
-    font-size: 20px;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 18px;
 }
 
 h1 {
-    font-family: 'Roboto', Arial, sans-serif;
     font-weight: normal;
     font-size: 35px;
+    background-color: rgb(33,97,176);
+    color: White;
+    margin-bottom: 30px;
+    padding: 15px;
 }
 
 h2 {
-    font-family: 'Roboto', Arial, sans-serif;
     font-weight: normal;
     font-size: 27px;
 }
 
 h3 {
-    font-family: 'Roboto', Arial, sans-serif;
     font-size: 18px;
     line-height: 1.2;
-    margin-bottom: -0.6em;
+    margin-bottom: 0;
 }
 
 h4 {
-    font-family: 'Roboto', Arial, sans-serif;
     font-size: 18px;
     line-height: 1.2;
-    margin-top: 0;
-    margin-bottom: 0.5em;
+    margin-bottom: 0;
+    margin-top: 0.2rem;
 }
 
-
 p {
-    font-family: 'Roboto', Arial, sans-serif;
-    font-size: 18px;
+    margin-top: 0.2rem;
+    padding: 0px 15px;
 }
 
 .menu-header {
@@ -45,11 +45,6 @@ p {
     align-items: center;
 }
 
-.fahne {
-    padding: 1rem;
-    border: 1px green solid;
-}
-
-.fahne img {
+.hero-image {
     width: 100%;
 }
