@@ -5,12 +5,20 @@ html, body {
     font-size: 18px;
 }
 
+.content {
+    margin: 0 15px;
+}
+
+.content h1 {
+    margin: 30 0;
+}
+
 h1 {
     font-weight: normal;
     font-size: 35px;
     background-color: rgb(33,97,176);
     color: White;
-    margin-bottom: 30px;
+    margin: 30px -15px !important;
     padding: 15px;
 }
 
@@ -34,7 +42,6 @@ h4 {
 
 p {
     margin-top: 0.2rem;
-    padding: 0px 15px;
 }
 
 .menu-header {
@@ -43,6 +50,7 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 30px -15px !important;
 }
 
 .hero-image {
