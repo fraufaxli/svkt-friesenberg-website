@@ -1,6 +1,10 @@
-html, body {
+* {
     margin: 0;
     padding: 0;
+    border: none;
+}
+
+html, body {
     font-family: 'Roboto', Arial, sans-serif;
     font-size: 18px;
 }
@@ -25,6 +29,7 @@ h1 {
 h2 {
     font-weight: normal;
     font-size: 27px;
+    margin: 15px 0;
 }
 
 h3 {
@@ -55,4 +60,8 @@ p {
 
 .hero-image {
     width: 100%;
+}
+
+.note {
+    font-size: 0.8em;
 }
