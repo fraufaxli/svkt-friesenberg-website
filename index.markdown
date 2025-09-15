@@ -7,12 +7,19 @@ layout: startseite
 
 # Beweg dich mit uns! … Sport für Frauen – in Zürich, Friesenberg
 
-<img src="{{ '/assets/images/turnhallenboden.jpg' | relative_url }}" class="hero-image" />
+<img src="{{ '/assets/images/gruppen/start1.jpg' | relative_url }}" class="hero-image" />
 
 
 Du möchtest Sport treiben? Du bist neu in Zürich Wiedikon und auf der Suche nach einem neuen Sportverein?<br><br>
 
 ## Sportangebote
+
+<div class="kachel volleyball" style="background-image: url('{{ '/assets/images/kacheln/elki1_kachel.jpg' | relative_url }}')">
+    <div class="kachel-inhalt">
+        <div class="kachel-titel">Eltern-Kind-Turnen (ElKi)</div>
+        <div class="kachel-beschreibung">Semesterbeitrag (pro Lektion Fr. 10.–)</div>
+    </div>
+</div>
 
 ### Ressort «Jugend»
 [ElKi]({{ '/elki' | relative_url }})
