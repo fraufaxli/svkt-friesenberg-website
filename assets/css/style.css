@@ -78,6 +78,7 @@ p {
 .kachel .kachel-inhalt {
     padding: 1rem;
     background-color: rgb(255 255 255 / 0.7);
+    min-height: 4rem;
 }
 
 .kachel .kachel-titel {
@@ -86,12 +87,4 @@ p {
 
 .kachel .kachel-beschreibung {
     font-size: 0.8rem;
-}
-
-.kachel .volleyball {
-    // background-image: url("/svkt-friesenberg-website/assets/images/kacheln/elki1_kachel.jpg");
-}
-
-.kachel .volleyball {
-    // background-image: url("/svkt-friesenberg-website/assets/images/kacheln/elki1_kachel.jpg");
 }
