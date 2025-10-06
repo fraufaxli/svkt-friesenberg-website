@@ -60,7 +60,7 @@ Du möchtest Sport treiben? Du bist neu in Zürich Wiedikon und auf der Suche na
 
 ### Ressort «Erwachsene»
 #### mit Jahresbeitrag
-<div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/volley5_kachel.jpeg' | relative_url }}')">
+<div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/volley5_kachel2.jpeg' | relative_url }}')">
     <a href="{{ '/volleyball' | relative_url }}">
         <div class="kachel-inhalt">
             <div class="kachel-titel">Volleyball</div>
@@ -88,7 +88,7 @@ Du möchtest Sport treiben? Du bist neu in Zürich Wiedikon und auf der Suche na
 </div>
 
 <div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/sengym_kachel.png' | relative_url }}')">
-    <a href="{{ '/[Gymnastik für Seriorinnen' | relative_url }}">
+    <a href="{{ '/sen-gym' | relative_url }}">
         <div class="kachel-inhalt">
             <div class="kachel-titel">[Gymnastik für Seriorinnen</div>
             <div class="kachel-beschreibung">(1 Stunde, Fr. 150.– / pro Jahr)</div>
@@ -96,16 +96,37 @@ Du möchtest Sport treiben? Du bist neu in Zürich Wiedikon und auf der Suche na
     </a>
 </div>
 
-[Volleyball]({{ '/volleyball' | relative_url }}) (1½Std, Fr. 180.–/pro Jahr)<br>
-[Fitness]({{ '/fitness' | relative_url }}) (1½Std, Fr. 170.–/pro Jahr)<br>
-[Gymnastik]({{ '/gymnastik' | relative_url }}) (1Std, Fr. 150.–/pro Jahr)<br>
-[Gymnastik für Seriorinnen]({{ '/sen-gym' | relative_url }}) (1Std, Fr. 150.–/pro Jahr)<br>
-(Gymnastik und Sen.-Gymnastik = SUS Erwachsenensport II)<br>
+### Kurse
+#### mit Jahresbeitrag
+<div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/lada_kachel2.jpeg' | relative_url }}')">
+    <a href="{{ '/lada' | relative_url }}">
+        <div class="kachel-inhalt">
+            <div class="kachel-titel">Latin-Aerobic-Dance</div>
+            <div class="kachel-beschreibung">Semesterbeitrag<br>
+            (pro Lektion Fr. 16.–)</div>
+        </div>
+    </a>
+</div>
 
-#### Kurse
-[Latin-Aerobic-Dance]({{ '/lada' | relative_url }}) Semesterbeitrag (pro Lektion Fr. 16.–)<br>
-[Aqua-Fitness-Gymnastiik]({{ '/aqua' | relative_url }}) Semesterbeitrag (pro Lektion Fr. 16.–)<br>
-[Pilates für Alle]({{ '/pilates' | relative_url }}) Semesterbeitrag (pro Lektion Fr. 13.–)<br><br>
+<div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/aqua-kachel.jpg' | relative_url }}')">
+    <a href="{{ '/aqua' | relative_url }}">
+        <div class="kachel-inhalt">
+            <div class="kachel-titel">Aqua-Gymnastik</div>
+            <div class="kachel-beschreibung">Semesterbeitrag<br>
+            (pro Lektion Fr. 16.–)</div>
+        </div>
+    </a>
+</div>
+
+<div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/pilates-kachel.jpg' | relative_url }}')">
+    <a href="{{ '/pilates' | relative_url }}">
+        <div class="kachel-inhalt">
+            <div class="kachel-titel">Pilates</div>
+            <div class="kachel-beschreibung">Semesterbeitrag<br>
+            (pro Lektion Fr. 13.–)</div>
+        </div>
+    </a>
+</div>
 
 Kursfreie Zeit, während der <a href="https://www.stadt-zuerich.ch/de/bildung/volksschule/schulferien.html?cid=redirect-ssd-schulferien.html#schuljahr_2025_26" target="_blank">Zürcher Schulferienzeit</a><br><br>
 
