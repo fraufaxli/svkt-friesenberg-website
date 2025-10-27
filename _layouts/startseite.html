@@ -6,4 +6,24 @@
 
   </div>
 </body>
+  <script>
+    /* Hamburger icon */
+    const btn = document.querySelector("button.mobile-menu-button");
+    const menu = document.querySelector(".mobile-menu");
+
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      menu.classList.toggle("hidden");
+    });
+
+    menu.addEventListener("click", (e) => {
+      e.stopPropagation();
+      menu.classList.toggle("hidden");
+    });
+
+    /* Hide menu when clicking anywhere on the screen */
+    document.addEventListener("click", () => {
+      menu.classList.add("hidden");
+    });
+  </script>
 </html>

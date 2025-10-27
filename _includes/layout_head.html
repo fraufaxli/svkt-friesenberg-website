@@ -7,11 +7,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 </head>
 <body>
-  
   <div class='content {{ include.content_variant }}'>
-    <div class="menu-header">
-      <img src="{{ '/assets/images/logo.jpg' | relative_url }}" height="55" />
-      <span><a href="mailto:andifuchs@yahoo.com"><img src="{{ '/assets/images/umschlag.svg' | relative_url }}" height="27"/></a></span>
-      <img src="{{ '/assets/images/hamburger.svg' | relative_url }}" height="40" />
-    </div>
-    {% include layout_navigation.html %}
+    <header>
+      <div class="menu-header">
+        <img src="{{ '/assets/images/logo.jpg' | relative_url }}" height="55" />
+        <span><a href="mailto:andifuchs@yahoo.com"><img src="{{ '/assets/images/umschlag.svg' | relative_url }}" height="27"/></a></span>
+      
+        <button class="mobile-menu-button" aria-label="Hamburger menu button">
+          <img src="{{ '/assets/images/hamburger.svg' | relative_url }}" height="40" />
+        </button>  
+        
+      </div>
+
+      {% include layout_navigation.html %}
+
+    </header>

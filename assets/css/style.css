@@ -88,3 +88,27 @@ p {
 .kachel .kachel-beschreibung {
     font-size: 0.8rem;
 }
+
+.mobile-menu {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+    font-size: 25px;
+}
+
+.hidden {
+    display: none;
+}
+
+.mobile-menu a {
+    padding: 10px 30px;
+    text-decoration: none;
+    color: #000;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: end;
+}
