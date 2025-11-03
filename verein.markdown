@@ -17,7 +17,6 @@ Fitness, Gymnastik, Rückenfit, Pilates, Bodyforming und Body… Es gibt viele N
 Das Ziel unseres Vereins ist es, wöchentlich zusammenzukommen und sich in jedem Alter fit zu halten. Doch nicht nur das Turnen ist wichtig, sondern auch Spiel und Spass.<br>
 Ausserdem wollen wir unsere Angebote den heutigen Bedürfnissen anpassen und die sportlichen Trends im Rahmen unserer personellen und finanziellen Möglichkeiten umsetzen.
 
-- [Vereinsleitung]({{ '/vereinsleitung' | relative_url }})
 - [Statuten]({{ '/assets/images/2025_Statutenänderung_Unterschrift-in-den-Originalstatuten.pdf' | relative_url }})
 - [Organigramm]({{ '/assets/images/2025_OrganigrammSUS.pdf' | relative_url }})
 - [Leitbild]({{ '/leitbild' | relative_url }})
