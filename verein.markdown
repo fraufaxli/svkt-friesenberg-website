@@ -18,4 +18,6 @@ Das Ziel unseres Vereins ist es, wöchentlich zusammenzukommen und sich in jedem
 Ausserdem wollen wir unsere Angebote den heutigen Bedürfnissen anpassen und die sportlichen Trends im Rahmen unserer personellen und finanziellen Möglichkeiten umsetzen.
 
 <img src="{{ '/assets/images/gruppen/verein2.jpg' | relative_url }}" class="hero-image" />
-<img src="{{ '/assets/images/gruppen/verein4.jpg' | relative_url }}" class="hero-image" />
+<img src="{{ '/assets/images/gruppen/verein4.jpg' | relative_url }}" class="hero-image" /><br><br>
+
+<a href="{{ '/' | relative_url }}">Zurück zu Home</a>

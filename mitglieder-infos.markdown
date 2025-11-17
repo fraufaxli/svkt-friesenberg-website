@@ -1,12 +1,11 @@
 ---
 layout: jede-seite
-title: Mitglieder-Infos
-permalink: /mitglieder-infos/
+title: Statuten
+permalink: /statuten/
 ---
 
-# Informationen
+# Statuten
 
-## Statuten
 In folgenden Statuten sind die Regeln und Bestimmungen unseres Vereins festgehalten. Darin wird festgelegt, wie unser Verein aufgebaut ist und welche Ziele verfolgt werden. Wer darf Mitglied werden, welche Rechte und Pflichten sowohl die Mitglieder als auch die Vorstands-Personen haben und wie Entscheidungen getroffen werden (z.B. durch die Generalversammlung).<br>
 [Statuten]({{ '/assets/images/2025_Statutenänderung_Unterschrift-in-den-Originalstatuten.pdf' | relative_url }})<br><br>
 
@@ -16,4 +15,6 @@ Die Struktur ist in folgendem Organigramm zu sehen. Die Hierarchie von der Grupp
 
 ## Leitbild
 Ein Leitbild zeigt den Zweck, die Werte und Ziele einer Organisation. Es dient als Orientierung für das Handeln der Mitglieder und als Ausdruck dessen, wofür die Organisation nach außen steht.<br>
-[Leitbild]({{ '/leitbild' | relative_url }})
+[Leitbild]({{ '/leitbild' | relative_url }})<br><br>
+
+<a href="{{ '/' | relative_url }}">Zurück zu Home</a>
