@@ -14,7 +14,7 @@ Durch das Training im Wasser wird die Kraft, Beweglichkeit und Ausdauer gesteige
 ### Zeit:<br>
 17 bis 17.45 Uhr
 ### Ort:<br>
-Schulschwimmanlage Borrweg,
+<a href="https://maps.app.goo.gl/uYhi5ji8WYNRRQQn7" target="_blank">Schulschwimmanlage Borrweg,</a><br>
 Borrweg 81-83
 8055 Zürich
 <br><br>

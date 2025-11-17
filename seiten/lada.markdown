@@ -17,7 +17,7 @@ Wer Fitness eher langweilig findet, aber doch fit bleiben möchte und den Rhythm
 19 bis 19.50 Uhr
 
 ### Ort:<br>
-Turnhalle Bachtobel,
-Bachtobelstrasse 111, 8045 Zürich.
+Sporthalle Bachtobel,
+Bachtobelstrasse 111, 8045 Zürich
 
 <img src="{{ '/assets/images/gruppen/lada2.jpeg' | relative_url }}" class="hero-image" />

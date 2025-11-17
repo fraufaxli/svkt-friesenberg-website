@@ -18,7 +18,7 @@ Information und Anmeldung: info.elki@svkt-friesenberg.ch
 ### Gruppe 1:<br>
 09.45 bis 10.30 Uhr, mit Kinderhüte<br>
 ### Ort:<br>
-Kirche St.Theresia,
+<a href="https://maps.app.goo.gl/tnHCzy9u8PP5svrq5" target="_blank">Kirche St.Theresia,</a><br>
 im Theresiensaal, Borrweg 78,
 8055 Zürich.<br><br>
 

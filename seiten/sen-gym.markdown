@@ -20,4 +20,6 @@ Die Gelegenheit sich zu treffen, gemeinsam aktiv zu sein und danach bei einem Ka
 oder<br>
 10 bis 11 Uhr<br>
 ### Ort:<br>
-Kirche St.Theresia, im Theresiensaal, Borrweg 78, 8055 Zürich
+<a href="https://maps.app.goo.gl/tnHCzy9u8PP5svrq5" target="_blank">Kirche St.Theresia,</a><br>
+im Theresiensaal, Borrweg 78,
+8055 Zürich.

@@ -5,22 +5,22 @@ permalink: /pilates/
 ---
 
 # Pilates für ALLE (alle erwachsenen Leute)
-
-Pilates für ALLE
-
-Auch im 2022 ist unser Pilates-Angebot für ALLE offen. Das heisst, dass Frauen und Männer gemeinsam am Pilates-Training teilnehmen können.
+Auch im 2025 ist unser Pilates-Angebot für ALLE offen. Das heisst, dass Frauen und Männer gemeinsam am Pilates-Training teilnehmen können.
 
 Pilates gibt ein starkes Körpergefühl, eine gute Haltung und elegante Bewegungen. Auch das Zusammenspiel von Atmung und Bewegung, Kraft und Beweglichkeit führt zu einem verbesserten Bewegungs- und Körpergefühl.
 
-Aktion "10er-Nötli"
-Von den Frühlingsferien bis zu den Sommerferien 2023 läuft die Aktion "10er-Nötli". Jede Person kann ohne Anmeldung um 10 Uhr ins Training kommen. Mitnehmen: Turn-Tenue und äs 10er-Nötli.
+## Aktion "10er-Nötli"
+Von den Frühlingsferien bis zu den Sommerferien 2026 läuft die Aktion "10er-Nötli". Jede Person kann ohne Anmeldung um 10 Uhr ins Training kommen. Mitnehmen: Turn-Tenue und äs 10er-Nötli.
 
 Bis bald :-).
 
-Dienstag
-Zeit: 10 bis 11 Uhr
-Ort: Kirche St.Theresia, im Theresiensaal, Borrweg 78,
-8055 Zürich
+## Dienstagmorgen
+### Zeit:
+10 bis 11 Uhr
+### Ort:<br>
+<a href="https://maps.app.goo.gl/tnHCzy9u8PP5svrq5" target="_blank">Kirche St.Theresia,</a><br>
+im Theresiensaal, Borrweg 78,
+8055 Zürich.<br><br><br>
 
 ______________________
 

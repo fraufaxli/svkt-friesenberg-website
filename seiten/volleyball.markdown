@@ -14,7 +14,8 @@ Die Volleyballerinnen (ab 18-Jährige bis oben offen) trainieren wöchentlich 1�
 ### Zeit:<br>
 20 bis 21.45 Uhr
 ### Ort:<br>
-Sporthalle Manegg, Tannenrauchstrasse 10, 8038 Zürich
+<a href="https://maps.app.goo.gl/22NG1s4sk9A81tXZ9" target="_blank">Sporthalle Manegg,</a><br>
+Tannenrauchstrasse 10, 8038 Zürich
 <br><br>
 Matchdaten, noch offen
 <br><br>

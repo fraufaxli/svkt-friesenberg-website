@@ -19,4 +19,5 @@ Information: jugend@svkt-friesenberg.ch
 ### Zeit:<br>
 19 bis 20 Uhr
 ### Ort:<br>
-Provisorium Sporthalle Döltschi-"Borrweg", Döltschiweg 184, 8055 Zürich
+<a href="https://maps.app.goo.gl/Fv6d4q437SFmjiJh7" target="_blank">Zusatz-Sporthalle Döltschi,</a><br>
+Döltschiweg 184, 8055 Zürich

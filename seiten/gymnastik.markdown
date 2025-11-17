@@ -19,20 +19,22 @@ Hier kommt die Frau ins Schwitzen. Tatsächlich ;-) .
 ### Zeit:
 8.45 bis 9.45 Uhr
 ### Ort:<br>
-Kirche St.Theresia, im Theresiensaal, Borrweg 78, 8055 Zürich
+<a href="https://maps.app.goo.gl/tnHCzy9u8PP5svrq5" target="_blank">Kirche St.Theresia,</a><br>
+im Theresiensaal, Borrweg 78,
+8055 Zürich.<br>
 
 ## Dienstagabend<br><span class="note">(SUS Erwachsenensport II)</span>
 ### Zeit:<br>
 19 bis 20 Uhr
 ### Ort:<br>
-Provisorium Sporthalle Döltschi-"Borrweg"
+<a href="https://maps.app.goo.gl/Fv6d4q437SFmjiJh7" target="_blank">Zusatz-Sporthalle Döltschi,</a><br>
 Döltschiweg 184, 8055 Zürich
 
 ## Donnerstagabend<br><span class="note">(SUS Erwachsenensport II)</span>
 ### Zeit:<br>
 16.30 bis 17.30 Uhr
 ### Ort:<br>
-Sporthalle Provisorium In-der-Ey-"Triemli",
+<a href="https://maps.app.goo.gl/Fv6d4q437SFmjiJh7" target="_blank">Sporthalle Provisorium In-der-Ey-"Triemli",</a><br>
 In der Ey 3, 8047 Zürich
 
 <img src="{{ '/assets/images/gruppen/gym2.jpeg' | relative_url }}" class="hero-image" />

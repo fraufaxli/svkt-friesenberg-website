@@ -14,4 +14,5 @@ Wer Dynamik und viel Bewegung liebt, ist im Fitness-Training richtig. Das Angebo
 ### Zeit:<br>
 20 bis 21.30 Uhr
 ### Ort:<br>
-Provisorium Sporthalle Döltschi-"Borrweg", Döltschiweg 184, 8055 Zürich
+<a href="https://maps.app.goo.gl/Fv6d4q437SFmjiJh7" target="_blank">Zusatz-Sporthalle Döltschi,</a><br>
+Döltschiweg 184, 8055 Zürich
