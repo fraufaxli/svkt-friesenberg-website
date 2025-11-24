@@ -12,6 +12,10 @@ layout: startseite
 
 Du möchtest Sport treiben? Du bist neu in Zürich Wiedikon und auf der Suche nach einem neuen Sportverein?<br><br>
 
+## Probetraining
+Möchtest du ein Angebot ausprobieren?
+<a href="https://forms.gle/mLfr9rcALtM8HWju7" target="_blank" rel="noopener">Hier kannst du dich per Online anmelden</a><br><br>
+
 ## Sportangebote
 
 ### Ressort «Jugend»
