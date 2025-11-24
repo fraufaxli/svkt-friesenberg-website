@@ -13,6 +13,9 @@ In folgenden Statuten sind die Regeln und Bestimmungen unseres Vereins festgehal
 Die Struktur ist in folgendem Organigramm zu sehen. Die Hierarchie von der Gruppe, in dem wöchentlich Sport getrieben wird bis zum Verband.<br>
 [Organigramm]({{ '/assets/images/2025_OrganigrammSUS.pdf' | relative_url }})<br><br>
 
+## Ethik-Charta
+<img src="{{ '/assets/images/gruppen/ethikcharta.png' | relative_url }}" class="hero-image" />
+
 ## Leitbild
 Ein Leitbild zeigt den Zweck, die Werte und Ziele einer Organisation. Es dient als Orientierung für das Handeln der Mitglieder und als Ausdruck dessen, wofür die Organisation nach außen steht.<br>
 [Leitbild]({{ '/leitbild' | relative_url }})<br><br>

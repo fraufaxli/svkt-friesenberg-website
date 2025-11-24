@@ -28,7 +28,7 @@ Tannenrauchstrasse 10, 8038 Zürich<br><br>
 Andrea Fuchs<br>
 Präsidentin<br>
 <a href="mailto:info@svkt-friesenberg.ch">info@svkt-friesenberg.ch</a><br>
-+41 79 344 36 31<br><br>
+<a href="tel:0041793443631">+41 79 344 36 31</a><br><br>
 
 Danila Eiselt<br>
 Leiterin Finanzen<br>
@@ -37,12 +37,12 @@ Leiterin Finanzen<br>
 Marlen Raimann<br>
 Ressort Erwachsene<br>
 <a href="mailto:info@svkt-friesenberg.ch">info@svkt-friesenberg.ch</a><br>
-+41 79 602 33 05<br><br>
+<a href="tel:0041796023305">+41 79 602 33 05<br><br>
 
 Barbara Naef<br>
 Ressort Jugend<br>
 <a href="mailto:jugend@svkt-friesenberg.ch">jugend@svkt-friesenberg.ch<br><br>
-+41 79 545 06 56<br><br>
+<a href="tel:0041795450656">+41 79 545 06 56<br><br>
 
 Valérie Maeder<br>
 Aktuarin<br>
