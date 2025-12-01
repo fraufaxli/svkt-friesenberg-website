@@ -13,17 +13,13 @@ html, body {
     margin: 0 15px;
 }
 
-.content h1 {
-    margin: 30 0;
-}
-
 h1 {
     font-weight: normal;
     font-size: 35px;
     background-color: rgb(33,97,176);
     color: White;
-    margin: 30px -15px !important;
     padding: 15px;
+    margin-top: 70px;
 }
 
 h2 {
@@ -50,12 +46,16 @@ p {
 }
 
 .menu-header {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    background-color: white;
     padding: 0.5rem;
     border: 1px rgb(33,97,176) solid;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 30px -15px !important;
+    /* margin: 30px -15px !important; */
 }
 
 .hero-image {
