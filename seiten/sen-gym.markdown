@@ -4,8 +4,6 @@ title: Gymnastik für Seniorinnen (SUS Erwachsenensport II)
 permalink: /sen-gym/
 ---
 
-# Gymnastik für Seniorinnen (SUS Erwachsenensport II)
-
 Dehnen, Strecken und Balance, im Sitzen und im Stehen, sanfte Bewegungsübungen zur Musik – diese Elemente gehören zum Hauptteil dieser Stunde.
 Im wöchentlichen Training geht es um Sturzprävention, die Erhaltung und Förderung der Beweglichkeit, das die Sicherheit im Alltag fördert.
 Am Schluss der Stunde werden Dehnungs- und Entspannungsübungen eingebaut.

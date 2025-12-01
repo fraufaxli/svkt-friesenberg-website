@@ -4,7 +4,6 @@ title: Latin-Aerobic-Dance
 permalink: /lada/
 ---
 
-# Latin-Aerobic-Dance
 
 Das Latin-Aerobic-Dance ist ein vom Latino-Lebensgefühl inspiriertes Tanz- und Fitness-Programm mit südamerikanischer und internationaler Musik und Tanzstilen.
 

@@ -4,8 +4,6 @@ title: Gymnastik (SUS Erwachsenensport II)
 permalink: /gymnastik/
 ---
 
-# Gymnastik (SUS Erwachsenensport II)
-
 Innerhalb einer Stunde wird gespielt, Bewegung und Balance angeboten, so dass der Gleichgewichtssinn gestärkt wird. Im wöchentlichen Training geht es um Sturzprävention und die Förderung der Beweglichkeit, das die Sicherheit im Alltag fördert. Auf der Matte werden Kräftigungsübungen durchgeführt, um Rücken, Beine und andere Muskeln zu stärken. Zum Schluss wird gedehnt.
 
 <img src="{{ '/assets/images/gruppen/gym1.jpg' | relative_url }}" class="hero-image" />

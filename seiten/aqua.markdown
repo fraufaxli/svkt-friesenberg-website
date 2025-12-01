@@ -1,10 +1,9 @@
 ---
 layout: jede-seite
-title: Aqua-Fitness-Gymnastik
+title: Aqua-Gymnastik
 permalink: /aqua/
 ---
 
-# Aqua-Gymnastik
 
 Durch das Training im Wasser wird die Kraft, Beweglichkeit und Ausdauer gesteigert und die Entspannung gefördert. Der Wasserauftrieb schont die Gelenke, der Wasserwiderstand fördert Muskelkraft und Ausdauer. Das Training im Wasser ist für jede Altersstufe geeignet. Wenn es am Körper irgendwo zwickt, das Gewicht nicht der Norm entspricht, hilft das Wasser den Körper zu tragen. So kann die Übung in der Schwerelosigkeit ausgeführt werden.
 

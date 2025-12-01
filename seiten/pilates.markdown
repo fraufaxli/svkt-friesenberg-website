@@ -4,7 +4,6 @@ title: Pilates für ALLE (alle erwachsenen Leute)
 permalink: /pilates/
 ---
 
-# Pilates für ALLE (alle erwachsenen Leute)
 Auch im 2025 ist unser Pilates-Angebot für ALLE offen. Das heisst, dass Frauen und Männer gemeinsam am Pilates-Training teilnehmen können.
 
 Pilates gibt ein starkes Körpergefühl, eine gute Haltung und elegante Bewegungen. Auch das Zusammenspiel von Atmung und Bewegung, Kraft und Beweglichkeit führt zu einem verbesserten Bewegungs- und Körpergefühl.

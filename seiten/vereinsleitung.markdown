@@ -4,8 +4,6 @@ title: Vereinsleitung
 permalink: /vereinsleitung/
 ---
 
-# Vereinsleitung
-
 Andrea Fuchs
 Präsidentin
 info@svkt-friesenberg.ch

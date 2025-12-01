@@ -4,8 +4,6 @@ title: Sport Union Schweiz (Verband)
 permalink: /sus/
 ---
 
-# Sport Union Schweiz (Verband)
-
 ## Gemeinsam für den Breitensport
 Der Verband <a href="https://sportunionschweiz.ch" target="_blank" rel="noopener noreferrer">Sport Union Schweiz (SUS)</a> ist ein nationaler Breitensportverband. Sie zählt 35'000 Mitglieder in rund 200 polysportiv ausgerichteten Turn- und Sportvereinen. Ihr Sitz und ihre Geschäftsstelle befinden sich in Emmenbrücke/LU.
 

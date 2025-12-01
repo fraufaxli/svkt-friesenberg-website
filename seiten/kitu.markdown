@@ -4,8 +4,6 @@ title: KiTu (Kinderturnen)
 permalink: /kitu/
 ---
 
-# KiTu (Kinderturnen)
-
 Für die 1. und 2. Kindergärtler bieten wir das Kinderturnen an. Mit Spiel und Spass toben sich die Kinder mit Rennen, Hüpfen und Springen in der Turnhalle aus. Auch Geräteturnen, Koordinationsspiele, Leichtathletik, Bodenturnen und Gymnastik bauen unsere KiTu-Leiterinnen in ihre Programme ein.
 
 <img src="{{ '/assets/images/gruppen/kitu1.jpg' | relative_url }}" class="hero-image" />

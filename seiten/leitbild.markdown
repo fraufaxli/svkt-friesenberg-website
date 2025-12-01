@@ -4,7 +4,6 @@ title: Leitbild
 permalink: /leitbild/
 ---
 
-# Leitbild
 
 Gemeinsam mit unseren Regionalverbänden und Vereinen setzen wir uns für einen gesunden, respektvollen und fairen Sport ein. Sport ist für uns ein wichtiger Bestandteil einer sinnvollen Freizeitgestaltung und der Gesundheitsförderung.<br><br>
 
