@@ -55,6 +55,7 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    box-sizing: border-box;
 }
 
 .hero-image {
@@ -94,6 +95,10 @@ p {
     z-index: 1;
     background-color: white;
     font-size: 25px;
+}
+
+.mobile-menu-button {
+    background-color: white;
 }
 
 .hidden {
