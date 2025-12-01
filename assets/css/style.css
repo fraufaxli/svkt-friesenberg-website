@@ -55,7 +55,6 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* margin: 30px -15px !important; */
 }
 
 .hero-image {
@@ -68,7 +67,6 @@ p {
 
 .kachel {
     width: 15rem;
-    // color: white;
     background-size: cover;
     background-position: center;
     box-shadow: rgba(0, 0, 0, 0.75) 0px 3px 8px;

@@ -4,8 +4,6 @@ title: Statuten
 permalink: /statuten/
 ---
 
-# Statuten
-
 In folgenden Statuten sind die Regeln und Bestimmungen unseres Vereins festgehalten. Darin wird festgelegt, wie unser Verein aufgebaut ist und welche Ziele verfolgt werden. Wer darf Mitglied werden, welche Rechte und Pflichten sowohl die Mitglieder als auch die Vorstands-Personen haben und wie Entscheidungen getroffen werden (z.B. durch die Generalversammlung).<br>
 [Statuten]({{ '/assets/images/2025_Statutenänderung_Unterschrift-in-den-Originalstatuten.pdf' | relative_url }})<br><br>
 

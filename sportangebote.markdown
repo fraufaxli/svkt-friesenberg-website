@@ -4,8 +4,6 @@ title: Sportangebote
 permalink: /sportangebote/
 ---
 
-# Sportangebote
-
 ## Probetraining (kostenlos)
 Möchtest du ein Angebot ausprobieren?
 <a href="https://forms.gle/mLfr9rcALtM8HWju7" target="_blank" rel="noopener">Hier kannst du dich per Online anmelden</a><br><br>

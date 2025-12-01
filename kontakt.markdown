@@ -4,7 +4,6 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-# Kontakt
 ## Information
 Ressort Erwachsene<br>
 <a href="mailto:info@svkt-friesenberg.ch">info@svkt-friesenberg.ch</a><br><br>

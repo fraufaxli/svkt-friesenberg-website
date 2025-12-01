@@ -4,8 +4,6 @@ title: Verein
 permalink: /verein/
 ---
 
-# Verein
-
 <img src="{{ '/assets/images/gruppen/verein1.jpg' | relative_url }}" class="hero-image" />
 
 ## Start im 1968
