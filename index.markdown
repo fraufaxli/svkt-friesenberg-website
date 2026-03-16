@@ -105,7 +105,7 @@ Möchtest du ein Angebot ausprobieren?
     </a>
 </div>
 
-<div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/aqua-kachel.jpg' | relative_url }}')">
+<div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/aqua-kachel2.jpg' | relative_url }}')">
     <a href="{{ '/aqua' | relative_url }}">
         <div class="kachel-inhalt">
             <div class="kachel-titel">Aqua-Gymnastik</div>
