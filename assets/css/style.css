@@ -10,7 +10,12 @@ html, body {
 }
 
 .content {
-    margin: 0 15px;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.grundtext {
+    padding: 15px 3rem;
 }
 
 h1 {
@@ -124,3 +129,14 @@ p {
     display: flex;
     justify-content: end;
 }
+
+@media (max-width: 800px) {
+    .content {
+        margin: 0 15px;
+    }
+    
+    .grundtext {
+        padding: 15px 0;
+    }
+}
+

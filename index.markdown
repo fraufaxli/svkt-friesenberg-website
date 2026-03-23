@@ -91,7 +91,7 @@ Möchtest du ein Angebot ausprobieren?
 </div>
 
 ### Kurse
-#### mit Jahresbeitrag
+#### mit Semesterbeitrag
 <div class="kacheln">
     <div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/lada_kachel2.jpeg' | relative_url }}')">
         <a href="{{ '/lada' | relative_url }}">
