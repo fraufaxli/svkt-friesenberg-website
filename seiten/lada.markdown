@@ -19,7 +19,10 @@ permalink: /lada/
 
     <h3> Ort:</h3>
     <a href="https://maps.app.goo.gl/Tw1xtYVPfuVgkkcM7" target="_blank">Sporthalle Bachtobel,</a><br>
-    Bachtobelstrasse 111, 8045 Zürich
+    Bachtobelstrasse 111, 8045 Zürich<br><br>
+
+    <a href="{{ '/' | relative_url }}">Zurück zu Home</a>
+
 </div>
 
 <img src="{{ '/assets/images/gruppen/lada2.jpeg' | relative_url }}" class="hero-image" />

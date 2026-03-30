@@ -24,7 +24,9 @@ permalink: /elki/
 
 
     <h3> Gruppe 2:</h3>
-    Momentan kein Angebot
+    Momentan kein Angebot<br><br>
+
+    <a href="{{ '/' | relative_url }}">Zurück zu Home</a>
 
 </div>
 

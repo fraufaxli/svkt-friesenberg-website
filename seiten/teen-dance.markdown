@@ -21,8 +21,8 @@ permalink: /teen-dance/
     Der Einstieg ist jederzeit möglich. Am besten am nächsten Montag in die Turnhalle kommen, das Fitness-Outfit mitnehmen, sich bei der Leiterin vorstellen und gleich mitmachen.
     Die Anmeldung wird vor Ort abgegeben.
 
-    Information: <a href="mailto:jugend@svkt-friesenberg.ch">jugend@svkt-friesenberg.ch</a>
+    Information: <a href="mailto:jugend@svkt-friesenberg.ch">jugend@svkt-friesenberg.ch</a><br><br>
 
-    <br><br>
     <a href="{{ '/' | relative_url }}">Zurück zum Verein</a>
+    
 </div>

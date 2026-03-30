@@ -19,7 +19,7 @@ permalink: /volleyball/
     Rangliste "Zürcher Turnverband"
     GLZ - Resultate Damen 2. Liga<br><br>
 
-    <a href="{{ '/' | relative_url }}">Zurück zum Verein</a>
+    <a href="{{ '/' | relative_url }}">Zurück zu Home</a>
 
 </div>
 

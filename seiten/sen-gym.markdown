@@ -23,6 +23,8 @@ permalink: /sen-gym/
     <h3> Ort:</h3>
     <a href="https://maps.app.goo.gl/tnHCzy9u8PP5svrq5" target="_blank">Kirche St.Theresia,</a><br>
     im Theresiensaal, Borrweg 78,
-    8055 Zürich.
+    8055 Zürich.<br><br>
+
+    <a href="{{ '/' | relative_url }}">Zurück zu Home</a><br>
+
 </div>
-<a href="{{ '/' | relative_url }}">Zurück zu Home</a>

@@ -16,5 +16,8 @@ permalink: /fitness/
     20 bis 21.30 Uhr
     <h3> Ort:</h3>
     <a href="https://maps.app.goo.gl/Fv6d4q437SFmjiJh7" target="_blank">Zusatz-Sporthalle Döltschi,</a><br>
-    Döltschiweg 184, 8055 Zürich
+    Döltschiweg 184, 8055 Zürich<br><br>
+
+    <a href="{{ '/' | relative_url }}">Zurück zu Home</a>
+    
 </div>

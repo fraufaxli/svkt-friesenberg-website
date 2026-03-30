@@ -40,7 +40,7 @@ Ressort Erwachsene<br>
 
 Barbara Naef<br>
 Ressort Jugend<br>
-<a href="mailto:jugend@svkt-friesenberg.ch">jugend@svkt-friesenberg.ch<br><br>
+<a href="mailto:jugend@svkt-friesenberg.ch">jugend@svkt-friesenberg.ch<br>
 <a href="tel:0041795450656">+41 79 545 06 56<br><br>
 
 Valérie Maeder<br>

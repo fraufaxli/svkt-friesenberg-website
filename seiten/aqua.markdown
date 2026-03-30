@@ -17,7 +17,9 @@ permalink: /aqua/
     <br><br>
 
     <h3> Interessiert?</h3>
-    <a href="https://forms.gle/VoauxpRhUnnZyPwr9" target="_blank" rel="noopener">Hier kannst du dich per Online anmelden</a>
+    <a href="https://forms.gle/VoauxpRhUnnZyPwr9" target="_blank" rel="noopener">Hier kannst du dich per Online anmelden</a><br><br>
+
+    <a href="{{ '/' | relative_url }}">Zurück zu Home</a>
 
 </div>
 

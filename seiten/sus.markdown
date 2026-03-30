@@ -17,6 +17,8 @@ permalink: /sus/
 
     <h2> Vielfalt als Stärke</h2>
     Die Sport Union Schweiz ist konfessionell offen und dokumentierte dies im Jahr 2000 mit der Namensänderung in «Sport Union Schweiz».<br><br>
+
+    <a href="{{ '/' | relative_url }}">Zurück zu Home</a>
+
 </div>
 
-<a href="{{ '/' | relative_url }}">Zurück zu Home</a>
