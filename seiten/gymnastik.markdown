@@ -13,7 +13,7 @@ permalink: /gymnastik/
 <div class="grundtext">
     Hier steht die wöchentliche Bewegung im Vordergrund und vor allem aber das Treffen der Frauen.
     Hier fühlt sich wohl, wer sich regelmässig sportlich betätigen will.
-    Hier kommt die Frau ins Schwitzen. Tatsächlich ;-) .
+    Hier kommt die Frau ins Schwitzen. Tatsächlich ;-) .<br><br>
 
     <h2> Dienstagmorgen<br><span class="note">(SUS Erwachsenensport II)</span></h2>
 
@@ -22,14 +22,14 @@ permalink: /gymnastik/
     <h3> Ort:</h3>
     <a href="https://maps.app.goo.gl/tnHCzy9u8PP5svrq5" target="_blank">Kirche St.Theresia,</a><br>
     im Theresiensaal, Borrweg 78,
-    8055 Zürich.<br>
+    8055 Zürich.<br><br>
 
     <h2> Dienstagabend<br><span class="note">(SUS Erwachsenensport II)</span></h2>
     <h3> Zeit:<br></h3>
     19 bis 20 Uhr
     <h3> Ort:<br></h3>
     <a href="https://maps.app.goo.gl/Fv6d4q437SFmjiJh7" target="_blank">Zusatz-Sporthalle Döltschi,</a><br>
-    Döltschiweg 184, 8055 Zürich
+    Döltschiweg 184, 8055 Zürich<br><br>
 
     <h2> Donnerstagabend<br><span class="note">(SUS Erwachsenensport II)</span></h2>
     <h3> Zeit:</h3>
