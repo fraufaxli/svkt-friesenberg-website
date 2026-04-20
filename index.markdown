@@ -72,7 +72,7 @@ Möchtest du ein Angebot ausprobieren?
             </div>
         </a>
     </div>
-    <div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/gym_kachel.jpg' | relative_url }}')">
+    <div class="kachel" style="background-image: url('{{ '/assets/images/kacheln/gym_kachel2.jpg' | relative_url }}')">
         <a href="{{ '/gymnastik' | relative_url }}">
             <div class="kachel-inhalt">
                 <div class="kachel-titel">Gymnastik</div>
