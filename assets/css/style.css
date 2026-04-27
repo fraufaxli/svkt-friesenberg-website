@@ -55,8 +55,14 @@ p {
     z-index: 1;
     width: 100%;
     background-color: white;
-    padding: 0.5rem;
     border: 1px rgb(33,97,176) solid;
+}
+
+.menu-header .header-content {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.5rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -137,6 +143,10 @@ p {
     
     .grundtext {
         padding: 15px 0;
+    }
+
+    .menu-header .header-content {
+      width: 100%;
     }
 }
 
