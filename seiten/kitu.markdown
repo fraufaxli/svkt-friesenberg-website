@@ -1,6 +1,6 @@
 ---
 layout: jede-seite
-title: KiTu (Kinderturnen)
+title: KiTu (Kinderturnen) Momentan kein Angebot
 permalink: /kitu/
 ---
 
